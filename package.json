@@ -1,0 +1,19 @@
+{
+  "name": "playwright-parallel-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "next",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "node-localstorage": "^3.0.5"
+  }
+}

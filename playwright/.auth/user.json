@@ -1,0 +1,18 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://52.86.77.6:9000",
+      "localStorage": [
+        {
+          "name": "userInfo",
+          "value": "{\"id\":69,\"username\":\"eat5j0i\",\"full_name\":\"ccjci\",\"full_name_display\":\"ccjci\",\"color\":\"#12167a\",\"bio\":\"\",\"lang\":\"\",\"theme\":\"\",\"timezone\":\"\",\"is_active\":true,\"photo\":null,\"big_photo\":null,\"gravatar_id\":\"e29e6069213c2ad7e26647f74f3c15b4\",\"roles\":[],\"total_private_projects\":0,\"total_public_projects\":0,\"email\":\"eat5j0i@user.test\",\"uuid\":\"5926a8e3b35244eb9dc4b4808f0fe1b3\",\"date_joined\":\"2024-05-24T12:56:12.011Z\",\"read_new_terms\":true,\"accepted_terms\":true,\"max_private_projects\":null,\"max_public_projects\":null,\"max_memberships_private_projects\":null,\"max_memberships_public_projects\":null,\"verified_email\":false,\"refresh\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxNzI0NjU3MiwianRpIjoiOTk5NTI2NDJhYzJkNDBjMWFjOTk1YjA2NWRlYjY2MjQiLCJ1c2VyX2lkIjo2OX0.N2ZrhsKXPWI1OxCqDWP-ika0hyJfmV9LvGZRmqbgWgM\",\"auth_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE2NjQxNzcyLCJqdGkiOiJhNDdiMDM0OTkxNmE0MTFkOWFmOGU4Nzc4OTE5ZWZhYSIsInVzZXJfaWQiOjY5fQ.FXXO4OvoTFfPLYTOVJjK69SnKXCsXUSRKpCRNQbZfVc\"}"
+        },
+        {
+          "name": "token",
+          "value": "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE2NjQxNzcyLCJqdGkiOiJhNDdiMDM0OTkxNmE0MTFkOWFmOGU4Nzc4OTE5ZWZhYSIsInVzZXJfaWQiOjY5fQ.FXXO4OvoTFfPLYTOVJjK69SnKXCsXUSRKpCRNQbZfVc\""
+        }
+      ]
+    }
+  ]
+}
